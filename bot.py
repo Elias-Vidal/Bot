@@ -28,3 +28,4 @@ driver.get('https://web.whatsapp.com/')
 time.sleep(120)
 
 #teste commit pc escritorio
+#test ok funcioal
