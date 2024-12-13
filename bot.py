@@ -26,3 +26,5 @@ chrome_options2.add_argument(r"user-data-dir=" + dir_path + "/pasta/sessao")
 driver = webdriver.Chrome(chrome_options=chrome_options2)
 driver.get('https://web.whatsapp.com/')
 time.sleep(120)
+
+#teste commit pc escritorio
